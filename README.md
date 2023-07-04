@@ -4,7 +4,9 @@
 <div align=center>
 <h3> Hello World 🥳 </h3><br/>
 I'm Jiwon Lee.<br/>
-My goal is to give good influence to society.<br/>
+My goal is to give good influence to society.<br/><br/><br/>
+
+<img src="https://github.com/JiwonLee-514/JiwonLee-514/assets/136782803/ad839a73-2afb-4646-b3fb-b92900f5b4bd" width="750" height="260"/>
 <br/>
 
 </div> 
